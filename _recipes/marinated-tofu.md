@@ -1,10 +1,10 @@
 ---
 
-layout:recipe
+layout: recipe
 title: marinated snacking tofu
 image: tofu.jpg
 
-tags: snacks, vegan, vegetarian, easy
+tags: ["snacks", "vegan", "vegetarian", "easy"]
 
 ingredients: 
 - 1 block extra firm tofu
